@@ -1,4 +1,5 @@
 import crypto from 'crypto';
+
 class HashTableItem {
     constructor(key, value) {
         this.key = key;
